@@ -1,4 +1,4 @@
-package com.example.course.entities;
+package com.marcao.course.entities;
 
 import java.io.Serializable;
 
